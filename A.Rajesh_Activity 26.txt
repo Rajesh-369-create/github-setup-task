@@ -1,0 +1,9 @@
+﻿Hello GitHub!
+
+
+This is my first repository.
+
+
+Name: Rajesh  
+Department: AIML
+Year: 2026
